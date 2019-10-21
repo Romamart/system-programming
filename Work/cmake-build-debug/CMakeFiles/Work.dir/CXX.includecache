@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roman/CLionProjects/Work/src/MyVector/MyVector.cpp
+fstream
+-
+algorithm
+-
+random
+-
+string
+-
+MyVector.h
+/home/roman/CLionProjects/Work/src/MyVector/MyVector.h
+
+/home/roman/CLionProjects/Work/src/MyVector/MyVector.h
+ostream
+-
+MyVector.hpp
+/home/roman/CLionProjects/Work/src/MyVector/MyVector.hpp
+
+/home/roman/CLionProjects/Work/src/MyVector/MyVector.hpp
+MyVector.h
+/home/roman/CLionProjects/Work/src/MyVector/MyVector.h
+iostream
+-
+cassert
+-
+

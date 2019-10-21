@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Work.dir/src/MyVector/MyVector.cpp.o  -o Work 
