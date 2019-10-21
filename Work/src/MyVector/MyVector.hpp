@@ -17,14 +17,14 @@ template <class T> MyVector<T>::MyVector(unsigned int new_volume) {
     data = new T[volume];
 }
 
-template <class T> MyVector<T>::MyVector(const MyVector &other) : volume(other.volume), length(other.length) {  // Конструктор копирования.
+template <class T> MyVector<T>::MyVector(const MyVector &other) : volume(other.volume), length(other.length) {
     delete[] data;
     data = new T[volume];
     for (size_t i = 0; i != length; ++i)
         data[i] = other.data[i];
 }
 
-template <class T> MyVector<T>::MyVector(MyVector &&other) noexcept : volume(0), length(0), data(nullptr) {  // Move-конструктор.
+template <class T> MyVector<T>::MyVector(MyVector &&other) noexcept : volume(0), length(0), data(nullptr) {
     swap(other);
 }
 
