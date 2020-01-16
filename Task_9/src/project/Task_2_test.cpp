@@ -11,16 +11,7 @@
 
 using namespace std;
 /**
- * @mainpage Myvector
- * @brief:  removeFolder()
- *          Удалить содержимое директории
- *
- * @param:  [in] dir Директория, которую необходимо очистить.
- * @param:  [in] rmdir флаг (параметр удаления):
- *                   false – удалить только внутренние папки и файлы
- *                   true  – удалить и корневую директорию
- * @retval: true  Успешное выполнение
- * @retval: false Ошибка выполнения
+ * @file
  */
 int main(){
     MyVector<int> RStreams;
