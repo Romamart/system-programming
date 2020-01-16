@@ -26,7 +26,7 @@ rule CUSTOM_COMMAND
  restat = 1
 
 rule REGENERATE_BUILD
- command = /home/romamart/anaconda3/bin/meson --internal regenerate /home/romamart/CLionProjects/Task_9 /home/romamart/CLionProjects/Task_9/build --backend ninja
+ command = /home/romamart/anaconda3/bin/meson --internal regenerate /home/romamart/system-programming/Task_9 /home/romamart/system-programming/Task_9/build --backend ninja
  description = Regenerating build files.
  generator = 1
 
@@ -39,7 +39,7 @@ build PHONY: phony
 build doc: phony meson-doc
 
 build meson-doc: CUSTOM_COMMAND 
- COMMAND = /home/romamart/anaconda3/bin/meson --internal commandrunner /home/romamart/CLionProjects/Task_9 /home/romamart/CLionProjects/Task_9/build '' /home/romamart/anaconda3/bin/meson /usr/local/bin/doxygen /home/romamart/CLionProjects/Task_9/build/Doxyfile && sensible-browser /home/romamart/CLionProjects/Task_9/build/html/index.html
+ COMMAND = /home/romamart/anaconda3/bin/meson --internal commandrunner /home/romamart/system-programming/Task_9 /home/romamart/system-programming/Task_9/build '' /home/romamart/anaconda3/bin/meson /usr/local/bin/doxygen /home/romamart/system-programming/Task_9/build/Doxyfile && sensible-browser /home/romamart/system-programming/Task_9/build/html/index.html
  description = Running$ external$ command$ doc.
  pool = console
 

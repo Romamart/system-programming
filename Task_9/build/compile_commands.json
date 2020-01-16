@@ -1,30 +1,30 @@
 [
   {
-    "directory": "/home/romamart/CLionProjects/Task_9/build",
+    "directory": "/home/romamart/system-programming/Task_9/build",
     "command": "c++ -Isrc/test/c644cb3@@Task_3_test@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@Task_3_test@exe/Task_3_test.cpp.o' -MF 'src/test/c644cb3@@Task_3_test@exe/Task_3_test.cpp.o.d' -o 'src/test/c644cb3@@Task_3_test@exe/Task_3_test.cpp.o' -c ../src/test/Task_3_test.cpp",
     "file": "../src/test/Task_3_test.cpp",
     "output": "src/test/c644cb3@@Task_3_test@exe/Task_3_test.cpp.o"
   },
   {
-    "directory": "/home/romamart/CLionProjects/Task_9/build",
+    "directory": "/home/romamart/system-programming/Task_9/build",
     "command": "c++ -Isrc/test/c644cb3@@Task_4_test@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@Task_4_test@exe/Task_4_test.cpp.o' -MF 'src/test/c644cb3@@Task_4_test@exe/Task_4_test.cpp.o.d' -o 'src/test/c644cb3@@Task_4_test@exe/Task_4_test.cpp.o' -c ../src/test/Task_4_test.cpp",
     "file": "../src/test/Task_4_test.cpp",
     "output": "src/test/c644cb3@@Task_4_test@exe/Task_4_test.cpp.o"
   },
   {
-    "directory": "/home/romamart/CLionProjects/Task_9/build",
+    "directory": "/home/romamart/system-programming/Task_9/build",
     "command": "c++ -Isrc/test/c644cb3@@Task_5_test_1@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@Task_5_test_1@exe/Task_5_test_1.cpp.o' -MF 'src/test/c644cb3@@Task_5_test_1@exe/Task_5_test_1.cpp.o.d' -o 'src/test/c644cb3@@Task_5_test_1@exe/Task_5_test_1.cpp.o' -c ../src/test/Task_5_test_1.cpp",
     "file": "../src/test/Task_5_test_1.cpp",
     "output": "src/test/c644cb3@@Task_5_test_1@exe/Task_5_test_1.cpp.o"
   },
   {
-    "directory": "/home/romamart/CLionProjects/Task_9/build",
+    "directory": "/home/romamart/system-programming/Task_9/build",
     "command": "c++ -Isrc/test/c644cb3@@Task_5_test_2@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@Task_5_test_2@exe/Task_5_test_2.cpp.o' -MF 'src/test/c644cb3@@Task_5_test_2@exe/Task_5_test_2.cpp.o.d' -o 'src/test/c644cb3@@Task_5_test_2@exe/Task_5_test_2.cpp.o' -c ../src/test/Task_5_test_2.cpp",
     "file": "../src/test/Task_5_test_2.cpp",
     "output": "src/test/c644cb3@@Task_5_test_2@exe/Task_5_test_2.cpp.o"
   },
   {
-    "directory": "/home/romamart/CLionProjects/Task_9/build",
+    "directory": "/home/romamart/system-programming/Task_9/build",
     "command": "c++ -Isrc/test/c644cb3@@Task_10_test@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@Task_10_test@exe/Task_10_test.cpp.o' -MF 'src/test/c644cb3@@Task_10_test@exe/Task_10_test.cpp.o.d' -o 'src/test/c644cb3@@Task_10_test@exe/Task_10_test.cpp.o' -c ../src/test/Task_10_test.cpp",
     "file": "../src/test/Task_10_test.cpp",
     "output": "src/test/c644cb3@@Task_10_test@exe/Task_10_test.cpp.o"

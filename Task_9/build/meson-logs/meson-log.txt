@@ -1,11 +1,11 @@
-Build started at 2020-01-16T19:52:32.109996
+Build started at 2020-01-16T20:13:32.052001
 Main binary: /home/romamart/anaconda3/bin/python
 Build Options: 
 Python system: Linux
 The Meson build system
 Version: 0.53.0
-Source dir: /home/romamart/CLionProjects/Task_9
-Build dir: /home/romamart/CLionProjects/Task_9/build
+Source dir: /home/romamart/system-programming/Task_9
+Build dir: /home/romamart/system-programming/Task_9/build
 Build type: native build
 Project name: project
 Project version: 0.1.0
@@ -14,14 +14,14 @@ No LDFLAGS in the environment, not changing global flags.
 No CPPFLAGS in the environment, not changing global flags.
 Sanity testing C++ compiler: c++
 Is cross compiler: False.
-Sanity check compiler command line: c++ /home/romamart/CLionProjects/Task_9/build/meson-private/sanitycheckcpp.cc -o /home/romamart/CLionProjects/Task_9/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compiler command line: c++ /home/romamart/system-programming/Task_9/build/meson-private/sanitycheckcpp.cc -o /home/romamart/system-programming/Task_9/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
 Sanity check compile stdout:
 
 -----
 Sanity check compile stderr:
 
 -----
-Running test binary command: /home/romamart/CLionProjects/Task_9/build/meson-private/sanitycheckcpp.exe
+Running test binary command: /home/romamart/system-programming/Task_9/build/meson-private/sanitycheckcpp.exe
 C++ compiler for the build machine: c++ (gcc 7.4.0 "c++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0")
 C++ linker for the build machine: c++ GNU ld.bfd 2.30
 No CXXFLAGS in the environment, not changing global flags.
@@ -29,14 +29,14 @@ No LDFLAGS in the environment, not changing global flags.
 No CPPFLAGS in the environment, not changing global flags.
 Sanity testing C++ compiler: c++
 Is cross compiler: False.
-Sanity check compiler command line: c++ /home/romamart/CLionProjects/Task_9/build/meson-private/sanitycheckcpp.cc -o /home/romamart/CLionProjects/Task_9/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compiler command line: c++ /home/romamart/system-programming/Task_9/build/meson-private/sanitycheckcpp.cc -o /home/romamart/system-programming/Task_9/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
 Sanity check compile stdout:
 
 -----
 Sanity check compile stderr:
 
 -----
-Running test binary command: /home/romamart/CLionProjects/Task_9/build/meson-private/sanitycheckcpp.exe
+Running test binary command: /home/romamart/system-programming/Task_9/build/meson-private/sanitycheckcpp.exe
 C++ compiler for the host machine: c++ (gcc 7.4.0 "c++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0")
 C++ linker for the host machine: c++ GNU ld.bfd 2.30
 Build machine cpu family: x86_64
@@ -58,8 +58,8 @@ PKG_CONFIG_PATH:
 Called `/usr/bin/pkg-config --modversion gtest_main` -> 1
 
 Running compile:
-Working directory:  /home/romamart/CLionProjects/Task_9/build/meson-private/tmp1j2rm8g2
-Command line:  c++ /home/romamart/CLionProjects/Task_9/build/meson-private/tmp1j2rm8g2/testfile.cpp -o /home/romamart/CLionProjects/Task_9/build/meson-private/tmp1j2rm8g2/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/romamart/system-programming/Task_9/build/meson-private/tmpbuiaw99o
+Command line:  c++ /home/romamart/system-programming/Task_9/build/meson-private/tmpbuiaw99o/testfile.cpp -o /home/romamart/system-programming/Task_9/build/meson-private/tmpbuiaw99o/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -68,8 +68,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/romamart/CLionProjects/Task_9/build/meson-private/tmpjj4i7nar
-Command line:  c++ /home/romamart/CLionProjects/Task_9/build/meson-private/tmpjj4i7nar/testfile.cpp -o /home/romamart/CLionProjects/Task_9/build/meson-private/tmpjj4i7nar/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/romamart/system-programming/Task_9/build/meson-private/tmpegnx1s3o
+Command line:  c++ /home/romamart/system-programming/Task_9/build/meson-private/tmpegnx1s3o/testfile.cpp -o /home/romamart/system-programming/Task_9/build/meson-private/tmpegnx1s3o/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -87,8 +87,8 @@ Build targets in project: 6
 
 Found ninja-1.9.0 at /home/romamart/anaconda3/bin/ninja
 Running compile:
-Working directory:  /tmp/tmp0phzjm63
-Command line:  c++ /tmp/tmp0phzjm63/testfile.cpp -o /tmp/tmp0phzjm63/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
+Working directory:  /tmp/tmpnc25o4hr
+Command line:  c++ /tmp/tmpnc25o4hr/testfile.cpp -o /tmp/tmpnc25o4hr/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
 
 Code:
  int i = static_cast<int>(0);
@@ -98,8 +98,8 @@ Compiler stderr:
  
 Compiler accepts -std=c++17: YES
 Running compile:
-Working directory:  /home/romamart/CLionProjects/Task_9/build/meson-private/tmpvkghkdq8
-Command line:  c++ /home/romamart/CLionProjects/Task_9/build/meson-private/tmpvkghkdq8/testfile.cpp -o /home/romamart/CLionProjects/Task_9/build/meson-private/tmpvkghkdq8/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+Working directory:  /home/romamart/system-programming/Task_9/build/meson-private/tmp3ydbaium
+Command line:  c++ /home/romamart/system-programming/Task_9/build/meson-private/tmp3ydbaium/testfile.cpp -o /home/romamart/system-programming/Task_9/build/meson-private/tmp3ydbaium/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
 
 Code:
  

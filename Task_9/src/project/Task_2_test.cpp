@@ -1,17 +1,13 @@
-//
-// Created by roman on 21.10.2019.
-//
-
-#include <fstream>
-#include <algorithm>
-#include <random>
-#include <string>
 #include "Task_2/MyVector.h"
 
 
 using namespace std;
 /**
  * @file
+ * @brief Просто для документации
+
+    добавляю пару комментариев для функции,
+    чтобы просто заполнить место
  */
 int main(){
     MyVector<int> RStreams;
