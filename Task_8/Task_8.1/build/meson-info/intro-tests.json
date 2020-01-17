@@ -1,0 +1,1 @@
+[{"cmd": ["/home/romamart/CLionProjects/Task_8.1/build/src/test/sort_test"], "env": {}, "name": "sort", "workdir": null, "timeout": 30, "suite": ["main"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]

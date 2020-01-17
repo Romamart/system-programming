@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/romamart/CLionProjects/Task_8.2/src/main/main.cpp
+iostream
+-
+algorithm
+-
+cstdlib
+-
+iomanip
+-
+chrono
+-
+cassert
+-
+parallel.hpp
+/home/romamart/CLionProjects/Task_8.2/src/main/parallel.hpp
+
+/home/romamart/CLionProjects/Task_8.2/src/main/parallel.hpp
+thread
+-
+vector
+-
+cmath
+-
+

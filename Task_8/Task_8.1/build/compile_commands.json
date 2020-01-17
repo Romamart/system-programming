@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/home/romamart/CLionProjects/Task_8.1/build",
+    "command": "c++ -Isrc/main/32d4911@@main@exe -Isrc/main -I../src/main -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/main/32d4911@@main@exe/main.cpp.o' -MF 'src/main/32d4911@@main@exe/main.cpp.o.d' -o 'src/main/32d4911@@main@exe/main.cpp.o' -c ../src/main/main.cpp",
+    "file": "../src/main/main.cpp",
+    "output": "src/main/32d4911@@main@exe/main.cpp.o"
+  },
+  {
+    "directory": "/home/romamart/CLionProjects/Task_8.1/build",
+    "command": "c++ -Isrc/test/c644cb3@@sort_test@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@sort_test@exe/sort_test.cpp.o' -MF 'src/test/c644cb3@@sort_test@exe/sort_test.cpp.o.d' -o 'src/test/c644cb3@@sort_test@exe/sort_test.cpp.o' -c ../src/test/sort_test.cpp",
+    "file": "../src/test/sort_test.cpp",
+    "output": "src/test/c644cb3@@sort_test@exe/sort_test.cpp.o"
+  }
+]

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/romamart/CLionProjects/Task_8.1/src/main/parallel.hpp
+thread
+-
+vector
+-
+cmath
+-
+
+/home/romamart/CLionProjects/Task_8.1/src/test/sort_test.cpp
+../main/parallel.hpp
+/home/romamart/CLionProjects/Task_8.1/src/main/parallel.hpp
+gtest/gtest.h
+-
+vector
+-
+algorithm
+-
+random
+-
+
