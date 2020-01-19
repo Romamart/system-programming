@@ -1,0 +1,1 @@
+[{"cmd": ["/home/romamart/CLionProjects/Task_6/build/src/test/Tests"], "env": {}, "name": "myTests", "workdir": null, "timeout": 30, "suite": ["myproject"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]

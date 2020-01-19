@@ -1,0 +1,5 @@
+# ninja log v5
+0	1141	1579456707707421365	src/test/c644cb3@@Tests@exe/FigurTest.cpp.o	13a396a7e8b1fc96
+1	1194	1579456707759421978	src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o	bd1ab157d05d2da9
+1194	1356	1579456707919423867	src/test/Tests	b56fe7138dfd0e3d
+1356	1605	0	meson-test	62053a147fb550e5
