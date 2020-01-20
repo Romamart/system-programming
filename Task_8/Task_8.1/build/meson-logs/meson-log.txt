@@ -1,11 +1,11 @@
-Build started at 2020-01-17T20:42:36.767083
+Build started at 2020-01-20T22:16:00.602478
 Main binary: /home/romamart/anaconda3/bin/python
 Build Options: 
 Python system: Linux
 The Meson build system
 Version: 0.53.0
-Source dir: /home/romamart/CLionProjects/Task_8.1
-Build dir: /home/romamart/CLionProjects/Task_8.1/build
+Source dir: /home/romamart/system-programming/Task_8/Task_8.1
+Build dir: /home/romamart/system-programming/Task_8/Task_8.1/build
 Build type: native build
 Project name: main
 Project version: 0.1.0
@@ -14,14 +14,14 @@ No LDFLAGS in the environment, not changing global flags.
 No CPPFLAGS in the environment, not changing global flags.
 Sanity testing C++ compiler: c++
 Is cross compiler: False.
-Sanity check compiler command line: c++ /home/romamart/CLionProjects/Task_8.1/build/meson-private/sanitycheckcpp.cc -o /home/romamart/CLionProjects/Task_8.1/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compiler command line: c++ /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/sanitycheckcpp.cc -o /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
 Sanity check compile stdout:
 
 -----
 Sanity check compile stderr:
 
 -----
-Running test binary command: /home/romamart/CLionProjects/Task_8.1/build/meson-private/sanitycheckcpp.exe
+Running test binary command: /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/sanitycheckcpp.exe
 C++ compiler for the build machine: c++ (gcc 7.4.0 "c++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0")
 C++ linker for the build machine: c++ GNU ld.bfd 2.30
 No CXXFLAGS in the environment, not changing global flags.
@@ -29,14 +29,14 @@ No LDFLAGS in the environment, not changing global flags.
 No CPPFLAGS in the environment, not changing global flags.
 Sanity testing C++ compiler: c++
 Is cross compiler: False.
-Sanity check compiler command line: c++ /home/romamart/CLionProjects/Task_8.1/build/meson-private/sanitycheckcpp.cc -o /home/romamart/CLionProjects/Task_8.1/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compiler command line: c++ /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/sanitycheckcpp.cc -o /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
 Sanity check compile stdout:
 
 -----
 Sanity check compile stderr:
 
 -----
-Running test binary command: /home/romamart/CLionProjects/Task_8.1/build/meson-private/sanitycheckcpp.exe
+Running test binary command: /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/sanitycheckcpp.exe
 C++ compiler for the host machine: c++ (gcc 7.4.0 "c++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0")
 C++ linker for the host machine: c++ GNU ld.bfd 2.30
 Build machine cpu family: x86_64
@@ -45,7 +45,6 @@ Host machine cpu family: x86_64
 Host machine cpu: x86_64
 Target machine cpu family: x86_64
 Target machine cpu: x86_64
-Run-time dependency threads found: YES
 Pkg-config binary for MachineChoice.HOST is not cached.
 Pkg-config binary missing from cross or native file, or env var undefined.
 Trying a default pkg-config fallback at pkg-config
@@ -56,8 +55,8 @@ PKG_CONFIG_PATH:
 Called `/usr/bin/pkg-config --modversion gtest_main` -> 1
 
 Running compile:
-Working directory:  /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmp0jghg936
-Command line:  c++ /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmp0jghg936/testfile.cpp -o /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmp0jghg936/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpr1m8gmu4
+Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpr1m8gmu4/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpr1m8gmu4/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -66,8 +65,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmptxuo1uh0
-Command line:  c++ /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmptxuo1uh0/testfile.cpp -o /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmptxuo1uh0/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpffez60bb
+Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpffez60bb/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpffez60bb/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -77,12 +76,12 @@ Compiler stderr:
  
 Run-time dependency GTest found: YES (prebuilt)
 Adding test "sort"
-Build targets in project: 2
+Build targets in project: 1
 
 Found ninja-1.9.0 at /home/romamart/anaconda3/bin/ninja
 Running compile:
-Working directory:  /tmp/tmpxh7simwa
-Command line:  c++ /tmp/tmpxh7simwa/testfile.cpp -o /tmp/tmpxh7simwa/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
+Working directory:  /tmp/tmp5s5slv5v
+Command line:  c++ /tmp/tmp5s5slv5v/testfile.cpp -o /tmp/tmp5s5slv5v/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
 
 Code:
  int i = static_cast<int>(0);
@@ -92,8 +91,8 @@ Compiler stderr:
  
 Compiler accepts -std=c++17: YES
 Running compile:
-Working directory:  /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmp44bcck7n
-Command line:  c++ /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmp44bcck7n/testfile.cpp -o /home/romamart/CLionProjects/Task_8.1/build/meson-private/tmp44bcck7n/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+Working directory:  /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpms9gik0i
+Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpms9gik0i/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.1/build/meson-private/tmpms9gik0i/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
 
 Code:
  

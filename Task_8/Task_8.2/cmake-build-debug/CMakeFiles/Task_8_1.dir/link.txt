@@ -1,1 +1,1 @@
-/usr/bin/c++   -std=c++17 -pthread -g   CMakeFiles/Task_8_1.dir/src/main/main.cpp.o  -o Task_8_1 -lgtest -lgtest_main /usr/lib/libgtest.a -lpthread 
+/usr/bin/c++   -std=c++17 -pthread -g   CMakeFiles/Task_8_1.dir/src/test/TableTest.cpp.o  -o Task_8_1 -lgtest -lgtest_main /usr/lib/libgtest.a -lpthread 

@@ -1,0 +1,1 @@
+[{"cmd": ["/home/romamart/system-programming/Task_8/Task_8.2/build/src/test/TableTest"], "env": {}, "name": "sort", "workdir": null, "timeout": 30, "suite": ["main"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]

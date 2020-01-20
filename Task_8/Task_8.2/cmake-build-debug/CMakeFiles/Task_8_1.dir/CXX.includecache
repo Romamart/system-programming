@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/romamart/CLionProjects/Task_8.2/src/main/main.cpp
+/home/romamart/system-programming/Task_8/Task_8.2/src/main/parallel.hpp
+thread
+-
+vector
+-
+cmath
+-
+
+/home/romamart/system-programming/Task_8/Task_8.2/src/test/TableTest.cpp
 iostream
 -
 algorithm
@@ -19,14 +27,8 @@ chrono
 -
 cassert
 -
-parallel.hpp
-/home/romamart/CLionProjects/Task_8.2/src/main/parallel.hpp
-
-/home/romamart/CLionProjects/Task_8.2/src/main/parallel.hpp
-thread
+gtest/gtest.h
 -
-vector
--
-cmath
--
+../main/parallel.hpp
+/home/romamart/system-programming/Task_8/Task_8.2/src/main/parallel.hpp
 

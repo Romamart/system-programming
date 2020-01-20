@@ -26,7 +26,7 @@ rule CUSTOM_COMMAND
  restat = 1
 
 rule REGENERATE_BUILD
- command = /home/romamart/anaconda3/bin/meson --internal regenerate /home/romamart/CLionProjects/Task_8.1 /home/romamart/CLionProjects/Task_8.1/build --backend ninja
+ command = /home/romamart/anaconda3/bin/meson --internal regenerate /home/romamart/system-programming/Task_8/Task_8.1 /home/romamart/system-programming/Task_8/Task_8.1/build --backend ninja
  description = Regenerating build files.
  generator = 1
 
@@ -35,13 +35,6 @@ rule REGENERATE_BUILD
 build PHONY: phony 
 
 # Build rules for targets
-
-build src/main/32d4911@@main@exe/main.cpp.o: cpp_COMPILER ../src/main/main.cpp
- DEPFILE = src/main/32d4911@@main@exe/main.cpp.o.d
- ARGS = -Isrc/main/32d4911@@main@exe -Isrc/main -I../src/main -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread
-
-build src/main/main: cpp_LINKER src/main/32d4911@@main@exe/main.cpp.o
- LINK_ARGS = -Wl,--as-needed -Wl,--no-undefined -pthread
 
 build src/test/c644cb3@@sort_test@exe/sort_test.cpp.o: cpp_COMPILER ../src/test/sort_test.cpp
  DEPFILE = src/test/c644cb3@@sort_test@exe/sort_test.cpp.o.d
@@ -90,7 +83,7 @@ build meson-uninstall: CUSTOM_COMMAND PHONY
 
 build uninstall: phony meson-uninstall
 
-build all: phony src/main/main src/test/sort_test
+build all: phony src/test/sort_test
 
 build clean: phony meson-clean
 
@@ -98,13 +91,13 @@ build meson-clean: CUSTOM_COMMAND PHONY
  COMMAND = /home/romamart/anaconda3/bin/ninja -t clean
  description = Cleaning.
 
-build build.ninja: REGENERATE_BUILD ../meson.build ../src/meson.build ../src/main/meson.build ../src/test/meson.build meson-private/coredata.dat
+build build.ninja: REGENERATE_BUILD ../meson.build ../src/meson.build ../src/test/meson.build meson-private/coredata.dat
  pool = console
 
 build reconfigure: REGENERATE_BUILD PHONY
  pool = console
 
-build ../meson.build ../src/meson.build ../src/main/meson.build ../src/test/meson.build meson-private/coredata.dat: phony 
+build ../meson.build ../src/meson.build ../src/test/meson.build meson-private/coredata.dat: phony 
 
 default all
 

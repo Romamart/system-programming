@@ -7,6 +7,6 @@ find_package(GTest REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
 
 
-add_executable(Task_8_1 src/main/parallel.hpp src/main/main.cpp )
+add_executable(Task_8_1 src/main/parallel.hpp src/test/TableTest.cpp )
 target_link_libraries(Task_8_1 gtest gtest_main)
 target_link_libraries(Task_8_1 ${GTEST_LIBRARIES} pthread)

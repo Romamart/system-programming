@@ -4,11 +4,12 @@
 #include <iomanip>
 #include <chrono>
 #include <cassert>
-#include "parallel.hpp"
+#include <gtest/gtest.h>
+#include "../main/parallel.hpp"
 
 using namespace std;
 
-int main()
+TEST(Table, try_table)
 {
     cout << "sequential      parallel      standart sort" << endl;
     for (unsigned length = 10; length < 100000000; length *= 10)
@@ -42,5 +43,4 @@ int main()
 
         assert(seq == parallel);
     }
-    return 0;
 }
