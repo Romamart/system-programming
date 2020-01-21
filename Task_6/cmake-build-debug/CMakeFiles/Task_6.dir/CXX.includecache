@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/romamart/CLionProjects/Task_6/src/main/Fig.h
+/home/romamart/system-programming/Task_6/src/main/Fig.h
 cmath
 -
 array
@@ -14,21 +14,21 @@ array
 iostream
 -
 
-/home/romamart/CLionProjects/Task_6/src/main/Polynomial.h
+/home/romamart/system-programming/Task_6/src/main/Polynomial.h
 complex
 -
 
-/home/romamart/CLionProjects/Task_6/src/test/FigurTest.cpp
+/home/romamart/system-programming/Task_6/src/test/FigurTest.cpp
 gtest/gtest.h
 -
 ../main/Fig.h
-/home/romamart/CLionProjects/Task_6/src/main/Fig.h
+/home/romamart/system-programming/Task_6/src/main/Fig.h
 
-/home/romamart/CLionProjects/Task_6/src/test/PolynomialTest.cpp
+/home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp
 gtest/gtest.h
 -
 ../main/Polynomial.h
-/home/romamart/CLionProjects/Task_6/src/main/Polynomial.h
+/home/romamart/system-programming/Task_6/src/main/Polynomial.h
 complex
 -
 

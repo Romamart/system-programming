@@ -11,7 +11,59 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5423e39e-2adc-4eeb-8f37-64013e5bc79c" name="Default Changelist" comment="" />
+    <list default="true" id="5423e39e-2adc-4eeb-8f37-64013e5bc79c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/build/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/build/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-info/intro-buildoptions.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-info/intro-buildoptions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-info/intro-buildsystem_files.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-info/intro-buildsystem_files.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-info/intro-targets.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-info/intro-targets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-info/intro-tests.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-info/intro-tests.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-info/meson-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-info/meson-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-logs/meson-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-logs/meson-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-logs/testlog.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-logs/testlog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-logs/testlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-logs/testlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/build.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/build.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/cmd_line.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/cmd_line.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/coredata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/coredata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/install.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/install.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/meson_test_setup.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/meson_test_setup.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/test/Tests" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/test/Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/test/c644cb3@@Tests@exe/FigurTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/test/c644cb3@@Tests@exe/FigurTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task_6.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task_6.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/PolynomialTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/PolynomialTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-logs/meson-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-logs/meson-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-logs/testlog.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-logs/testlog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-logs/testlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-logs/testlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-private/build.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-private/build.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-private/coredata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/meson-private/coredata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/src/test/TableTest" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/src/test/TableTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/build/src/test/c644cb3@@TableTest@exe/TableTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/build/src/test/c644cb3@@TableTest@exe/TableTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_8/Task_8.2/src/test/TableTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8/Task_8.2/src/test/TableTest.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +73,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WcipqDy2w2si2D1zQ1bwn0MLRN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +85,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Task_8/Task_8.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -40,14 +97,14 @@
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Google Test.Fig.CircleTraits">
-    <configuration name="Fig.CircleTraits" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6" TARGET_NAME="Task_6" RUN_TARGET_PROJECT_NAME="Task_6" RUN_TARGET_NAME="Task_6" TEST_CLASS="Fig" TEST_METHOD="CircleTraits" TEST_MODE="SUITE_TEST">
+  <component name="RunManager" selected="Google Test.PolynomialTests.creationInt">
+    <configuration name="Fig.CircleTraits" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6" TARGET_NAME="Task_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6" RUN_TARGET_NAME="Task_6" TEST_CLASS="Fig" TEST_METHOD="CircleTraits" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolynomialTests.creationInt" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6" TARGET_NAME="Task_6" RUN_TARGET_PROJECT_NAME="Task_6" RUN_TARGET_NAME="Task_6" TEST_CLASS="PolynomialTests" TEST_METHOD="creationInt" TEST_MODE="SUITE_TEST">
+    <configuration name="PolynomialTests.creationInt" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6" TARGET_NAME="Task_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6" RUN_TARGET_NAME="Task_6" TEST_CLASS="PolynomialTests" TEST_METHOD="creationInt" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
@@ -59,14 +116,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.Task_6" />
-      <item itemvalue="Google Test.PolynomialTests.creationInt" />
       <item itemvalue="Google Test.Fig.CircleTraits" />
+      <item itemvalue="Google Test.PolynomialTests.creationInt" />
+      <item itemvalue="CMake Application.Task_6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Google Test.Fig.CircleTraits" />
         <item itemvalue="Google Test.PolynomialTests.creationInt" />
+        <item itemvalue="Google Test.Fig.CircleTraits" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +150,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579455469661</updated>
       <workItem from="1579455470899" duration="1622000" />
+      <workItem from="1579549441947" duration="744000" />
+      <workItem from="1579585708495" duration="288000" />
+      <workItem from="1579608552018" duration="622000" />
     </task>
     <servers />
   </component>
@@ -104,9 +164,13 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1179" y="302" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579456133821" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579456086422">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579608572246">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579456086422" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579608572246" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579608552287">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579608552287" />
   </component>
 </project>

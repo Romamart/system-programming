@@ -43,10 +43,10 @@ RM = /home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/b
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/romamart/CLionProjects/Task_6
+CMAKE_SOURCE_DIR = /home/romamart/system-programming/Task_6
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/romamart/CLionProjects/Task_6/cmake-build-debug
+CMAKE_BINARY_DIR = /home/romamart/system-programming/Task_6/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Task_6.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/Task_6.dir/flags.make
 
 CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o: CMakeFiles/Task_6.dir/flags.make
 CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o: ../src/test/FigurTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/romamart/CLionProjects/Task_6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o -c /home/romamart/CLionProjects/Task_6/src/test/FigurTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o -c /home/romamart/system-programming/Task_6/src/test/FigurTest.cpp
 
 CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/romamart/CLionProjects/Task_6/src/test/FigurTest.cpp > CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/romamart/system-programming/Task_6/src/test/FigurTest.cpp > CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.i
 
 CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/romamart/CLionProjects/Task_6/src/test/FigurTest.cpp -o CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/romamart/system-programming/Task_6/src/test/FigurTest.cpp -o CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.s
 
 CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o: CMakeFiles/Task_6.dir/flags.make
 CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o: ../src/test/PolynomialTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/romamart/CLionProjects/Task_6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o -c /home/romamart/CLionProjects/Task_6/src/test/PolynomialTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o -c /home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp
 
 CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/romamart/CLionProjects/Task_6/src/test/PolynomialTest.cpp > CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp > CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.i
 
 CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/romamart/CLionProjects/Task_6/src/test/PolynomialTest.cpp -o CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp -o CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.s
 
 # Object files for target Task_6
 Task_6_OBJECTS = \
@@ -96,7 +96,7 @@ Task_6: CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o
 Task_6: CMakeFiles/Task_6.dir/build.make
 Task_6: /usr/lib/libgtest.a
 Task_6: CMakeFiles/Task_6.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/romamart/CLionProjects/Task_6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Task_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Task_6"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Task_6.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Task_6.dir/clean:
 .PHONY : CMakeFiles/Task_6.dir/clean
 
 CMakeFiles/Task_6.dir/depend:
-	cd /home/romamart/CLionProjects/Task_6/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/romamart/CLionProjects/Task_6 /home/romamart/CLionProjects/Task_6 /home/romamart/CLionProjects/Task_6/cmake-build-debug /home/romamart/CLionProjects/Task_6/cmake-build-debug /home/romamart/CLionProjects/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/romamart/system-programming/Task_6/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/romamart/system-programming/Task_6 /home/romamart/system-programming/Task_6 /home/romamart/system-programming/Task_6/cmake-build-debug /home/romamart/system-programming/Task_6/cmake-build-debug /home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Task_6.dir/depend
 

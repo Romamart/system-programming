@@ -12,60 +12,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554e4d4c-493b-470e-aa03-557d942084e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TableTest.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-buildsystem_files.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-buildsystem_files.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-dependencies.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-dependencies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-targets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-targets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-tests.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-info/intro-tests.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-info/meson-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-info/meson-info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-logs/meson-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-logs/meson-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-logs/testlog.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-logs/testlog.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-logs/testlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-logs/testlog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-private/build.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-private/build.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-private/coredata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-private/coredata.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-private/install.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-private/install.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/meson-private/meson_test_setup.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/meson-private/meson_test_setup.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/src/main/32d4911@@main@exe/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/src/main/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/src/test/c644cb3@@sort_test@exe/sort_test.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/src/test/c644cb3@@sort_test@exe/sort_test.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/build/src/test/sort_test" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/build/src/test/sort_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/src/main/meson.build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task_8.1/src/meson.build" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_8.1/src/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task_6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-buildoptions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-buildoptions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-buildsystem_files.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-buildsystem_files.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-targets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-targets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-tests.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-info/intro-tests.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-info/meson-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-info/meson-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-logs/meson-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-logs/meson-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-logs/testlog.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-logs/testlog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-logs/testlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-logs/testlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-private/build.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-private/build.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-private/cmd_line.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-private/cmd_line.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-private/coredata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-private/coredata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-private/install.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-private/install.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/meson-private/meson_test_setup.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/meson-private/meson_test_setup.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/src/test/Tests" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/src/test/Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/src/test/c644cb3@@Tests@exe/FigurTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/src/test/c644cb3@@Tests@exe/FigurTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/build/src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/build/src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/Task_6.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/Task_6.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_6/src/test/PolynomialTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_6/src/test/PolynomialTest.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_1.dir/src/main/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_8_2.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task_8.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task_8.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task_8_1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task_8_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/build/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/build/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-logs/meson-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-logs/meson-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-logs/testlog.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-logs/testlog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-logs/testlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-logs/testlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/build.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/build.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/meson-private/coredata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/meson-private/coredata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/test/TableTest" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/test/TableTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/test/c644cb3@@TableTest@exe/TableTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/test/c644cb3@@TableTest@exe/TableTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TableTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TableTest.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,10 +87,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
@@ -116,9 +114,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.Task_8_1" />
-      <item itemvalue="Google Test.Task_8_1" />
       <item itemvalue="Google Test.Table.try_table" />
+      <item itemvalue="Google Test.Task_8_1" />
+      <item itemvalue="CMake Application.Task_8_1" />
     </list>
     <recent_temporary>
       <list>
@@ -150,7 +148,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579284019400</updated>
       <workItem from="1579284020541" duration="287000" />
-      <workItem from="1579548347809" duration="260000" />
+      <workItem from="1579548347809" duration="863000" />
+      <workItem from="1579608575241" duration="637000" />
     </task>
     <servers />
   </component>
@@ -158,21 +157,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="881" height="278" key="GridCell.Tab.0.bottom" timestamp="1579284306815">
+    <state x="776" y="266" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579549439533">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579284306815" />
-    <state width="881" height="278" key="GridCell.Tab.0.center" timestamp="1579284306814">
+    <state x="776" y="266" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579549439533" />
+    <state width="1807" height="190" key="GridCell.Tab.0.bottom" timestamp="1579549440582">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579284306814" />
-    <state width="881" height="278" key="GridCell.Tab.0.left" timestamp="1579284306814">
+    <state width="1807" height="190" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579549440582" />
+    <state width="1807" height="190" key="GridCell.Tab.0.center" timestamp="1579549440582">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579284306814" />
-    <state width="881" height="278" key="GridCell.Tab.0.right" timestamp="1579284306815">
+    <state width="1807" height="190" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579549440582" />
+    <state width="1807" height="190" key="GridCell.Tab.0.left" timestamp="1579549440581">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579284306815" />
+    <state width="1807" height="190" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579549440581" />
+    <state width="1807" height="190" key="GridCell.Tab.0.right" timestamp="1579549440582">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="190" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579549440582" />
   </component>
 </project>

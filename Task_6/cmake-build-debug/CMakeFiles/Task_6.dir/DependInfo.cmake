@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/romamart/CLionProjects/Task_6/src/test/FigurTest.cpp" "/home/romamart/CLionProjects/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o"
-  "/home/romamart/CLionProjects/Task_6/src/test/PolynomialTest.cpp" "/home/romamart/CLionProjects/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o"
+  "/home/romamart/system-programming/Task_6/src/test/FigurTest.cpp" "/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o"
+  "/home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp" "/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

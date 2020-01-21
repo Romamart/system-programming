@@ -25,4 +25,16 @@ TEST(PolynomialTests, creationComplex){
     EXPECT_EQ(std::imag(second), std::imag(p.getCoeff(1)));
 }
 
+TEST(PolynomialTests, SchurComplex2Num){
+    std::complex<double> first(1, 1);
+    std::complex<double> second(2, 2);
 
+    Polynomial<std::complex<double>> p(first, second);
+
+    Polynomial<std::complex<double>> schurP = schurTransform(p);
+
+    EXPECT_EQ(0, std::real(schurP.getCoeff(0)));
+    EXPECT_EQ(0, std::imag(schurP.getCoeff(0)));
+    EXPECT_EQ(6, std::real(schurP.getCoeff(1)));
+    EXPECT_EQ(0, std::imag(schurP.getCoeff(1)));
+}

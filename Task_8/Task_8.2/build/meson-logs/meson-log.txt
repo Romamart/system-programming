@@ -1,4 +1,4 @@
-Build started at 2020-01-20T22:33:17.473832
+Build started at 2020-01-21T15:17:37.844076
 Main binary: /home/romamart/anaconda3/bin/python
 Build Options: 
 Python system: Linux
@@ -55,8 +55,8 @@ PKG_CONFIG_PATH:
 Called `/usr/bin/pkg-config --modversion gtest_main` -> 1
 
 Running compile:
-Working directory:  /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpiflpcx2m
-Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpiflpcx2m/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpiflpcx2m/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmp3n3atka4
+Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmp3n3atka4/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmp3n3atka4/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -65,8 +65,8 @@ Compiler stdout:
 Compiler stderr:
  
 Running compile:
-Working directory:  /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpswjlw37y
-Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpswjlw37y/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpswjlw37y/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -Wl,--allow-shlib-undefined 
+Working directory:  /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmprj2w1hrz
+Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmprj2w1hrz/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmprj2w1hrz/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -Wl,--allow-shlib-undefined 
 
 Code:
  int main(void) { return 0; }
@@ -80,8 +80,8 @@ Build targets in project: 1
 
 Found ninja-1.9.0 at /home/romamart/anaconda3/bin/ninja
 Running compile:
-Working directory:  /tmp/tmpu6v8yd2p
-Command line:  c++ /tmp/tmpu6v8yd2p/testfile.cpp -o /tmp/tmpu6v8yd2p/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
+Working directory:  /tmp/tmpss2o5yix
+Command line:  c++ /tmp/tmpss2o5yix/testfile.cpp -o /tmp/tmpss2o5yix/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
 
 Code:
  int i = static_cast<int>(0);
@@ -91,8 +91,8 @@ Compiler stderr:
  
 Compiler accepts -std=c++17: YES
 Running compile:
-Working directory:  /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpeum9yq3h
-Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpeum9yq3h/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmpeum9yq3h/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+Working directory:  /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmp41xe6sef
+Command line:  c++ /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmp41xe6sef/testfile.cpp -o /home/romamart/system-programming/Task_8/Task_8.2/build/meson-private/tmp41xe6sef/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
 
 Code:
  
