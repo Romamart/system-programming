@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/romamart/CLionProjects/Task_8.1/src/test/sort_test.cpp" "/home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/Task_8_1.dir/src/test/sort_test.cpp.o"
+  "/home/romamart/system-programming/Task_8/Task_8.1/src/test/sort_test.cpp" "/home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/Task_8_1.dir/src/test/sort_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

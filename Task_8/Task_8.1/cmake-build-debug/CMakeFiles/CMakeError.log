@@ -1,24 +1,24 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
-Change Dir: /home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_00574/fast && /usr/bin/make -f CMakeFiles/cmTC_00574.dir/build.make CMakeFiles/cmTC_00574.dir/build
-make[1]: вход в каталог «/home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
-Building C object CMakeFiles/cmTC_00574.dir/src.c.o
-/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_00574.dir/src.c.o   -c /home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_00574
-/home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_00574.dir/link.txt --verbose=1
-/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    CMakeFiles/cmTC_00574.dir/src.c.o  -o cmTC_00574 
-CMakeFiles/cmTC_00574.dir/src.c.o: In function `main':
+Run Build Command(s):/usr/bin/make cmTC_4eb70/fast && /usr/bin/make -f CMakeFiles/cmTC_4eb70.dir/build.make CMakeFiles/cmTC_4eb70.dir/build
+make[1]: вход в каталог «/home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
+Building C object CMakeFiles/cmTC_4eb70.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_4eb70.dir/src.c.o   -c /home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_4eb70
+/home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4eb70.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    CMakeFiles/cmTC_4eb70.dir/src.c.o  -o cmTC_4eb70 
+CMakeFiles/cmTC_4eb70.dir/src.c.o: In function `main':
 src.c:(.text+0x3e): undefined reference to `pthread_create'
 src.c:(.text+0x4a): undefined reference to `pthread_detach'
 src.c:(.text+0x5b): undefined reference to `pthread_join'
 src.c:(.text+0x6f): undefined reference to `pthread_atfork'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_00574.dir/build.make:86: recipe for target 'cmTC_00574' failed
-make[1]: *** [cmTC_00574] Error 1
-make[1]: выход из каталога «/home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
-Makefile:121: recipe for target 'cmTC_00574/fast' failed
-make: *** [cmTC_00574/fast] Error 2
+CMakeFiles/cmTC_4eb70.dir/build.make:86: recipe for target 'cmTC_4eb70' failed
+make[1]: *** [cmTC_4eb70] Error 1
+make[1]: выход из каталога «/home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
+Makefile:121: recipe for target 'cmTC_4eb70/fast' failed
+make: *** [cmTC_4eb70/fast] Error 2
 
 
 Source file was:
@@ -42,22 +42,22 @@ int main(void)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_efad1/fast && /usr/bin/make -f CMakeFiles/cmTC_efad1.dir/build.make CMakeFiles/cmTC_efad1.dir/build
-make[1]: вход в каталог «/home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
-Building C object CMakeFiles/cmTC_efad1.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_efad1.dir/CheckFunctionExists.c.o   -c /home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/share/cmake-3.15/Modules/CheckFunctionExists.c
-Linking C executable cmTC_efad1
-/home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_efad1.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_efad1.dir/CheckFunctionExists.c.o  -o cmTC_efad1 -lpthreads 
+Run Build Command(s):/usr/bin/make cmTC_e1fe5/fast && /usr/bin/make -f CMakeFiles/cmTC_e1fe5.dir/build.make CMakeFiles/cmTC_e1fe5.dir/build
+make[1]: вход в каталог «/home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
+Building C object CMakeFiles/cmTC_e1fe5.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_e1fe5.dir/CheckFunctionExists.c.o   -c /home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e1fe5
+/home/romamart/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.5662.56/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e1fe5.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_e1fe5.dir/CheckFunctionExists.c.o  -o cmTC_e1fe5 -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_efad1.dir/build.make:86: recipe for target 'cmTC_efad1' failed
-make[1]: *** [cmTC_efad1] Error 1
-make[1]: выход из каталога «/home/romamart/CLionProjects/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
-Makefile:121: recipe for target 'cmTC_efad1/fast' failed
-make: *** [cmTC_efad1/fast] Error 2
+CMakeFiles/cmTC_e1fe5.dir/build.make:86: recipe for target 'cmTC_e1fe5' failed
+make[1]: *** [cmTC_e1fe5] Error 1
+make[1]: выход из каталога «/home/romamart/system-programming/Task_8/Task_8.1/cmake-build-debug/CMakeFiles/CMakeTmp»
+Makefile:121: recipe for target 'cmTC_e1fe5/fast' failed
+make: *** [cmTC_e1fe5/fast] Error 2
 
 
 

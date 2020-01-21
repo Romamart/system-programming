@@ -11,14 +11,13 @@ using namespace std;
 
 TEST(Table, try_table)
 {
-    cout << "standart sort     parallel      sequential " << endl;
+    cout << "sequential       parallel" << endl;
     for (unsigned length = 10; length < 100000000; length *= 10)
     {
         vector<int> seq(length);
         generate(seq.begin(), seq.end(), []() {return rand(); });
 
         vector<int> parallel = seq;
-        vector<int> stdseq = seq;
 
         using chrono::system_clock;
 
@@ -28,18 +27,14 @@ TEST(Table, try_table)
         auto end_solo = system_clock::now();
 
         auto start_parallel = system_clock::now();
-        my::mergeSort(parallel.begin(), parallel.end());
+        my::mergeSortPar(parallel.begin(), parallel.end());
         auto end_parallel = system_clock::now();
 
-        auto start_stdseq = system_clock::now();
-        my::mergeSort(stdseq.begin(), stdseq.end());
-        auto end_stdseq = system_clock::now();
 
         cout << setw(10) << chrono::duration_cast<milli>(end_solo - start_solo).count()
              << "    " << setw(10) <<
              chrono::duration_cast<milli>(end_parallel - start_parallel).count() <<
-             "      " << setw(10) << chrono::duration_cast<milli>(end_stdseq - start_stdseq).count()
-             << endl;
+             "      "  << endl;
 
 //        assert(seq == parallel);
 

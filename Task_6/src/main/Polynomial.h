@@ -50,6 +50,9 @@ public:
             coeff[i] *= x;
         }
     }
+    ~Polynomial(){
+        delete [] coeff;
+    }
 };
 
 

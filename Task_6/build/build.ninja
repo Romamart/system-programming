@@ -36,15 +36,11 @@ build PHONY: phony
 
 # Build rules for targets
 
-build src/test/c644cb3@@Tests@exe/FigurTest.cpp.o: cpp_COMPILER ../src/test/FigurTest.cpp
- DEPFILE = src/test/c644cb3@@Tests@exe/FigurTest.cpp.o.d
- ARGS = -Isrc/test/c644cb3@@Tests@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread
-
 build src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o: cpp_COMPILER ../src/test/PolynomialTest.cpp
  DEPFILE = src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o.d
  ARGS = -Isrc/test/c644cb3@@Tests@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread
 
-build src/test/Tests: cpp_LINKER src/test/c644cb3@@Tests@exe/FigurTest.cpp.o src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o | /usr/lib/libgtest.a /usr/lib/libgtest_main.a
+build src/test/Tests: cpp_LINKER src/test/c644cb3@@Tests@exe/PolynomialTest.cpp.o | /usr/lib/libgtest.a /usr/lib/libgtest_main.a
  LINK_ARGS = -fsanitize=address -Wl,--as-needed -Wl,--no-undefined -Wl,--start-group -lgtest -lgtest_main -Wl,--end-group -pthread
 
 # Test rules

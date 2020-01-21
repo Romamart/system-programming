@@ -3,7 +3,7 @@ test(
     'myTests',
     executable(
         'Tests',
-        sources: ['FigurTest.cpp', 'PolynomialTest.cpp'],
+        sources: ['PolynomialTest.cpp'],
         include_directories: src,
         dependencies: [gtest]
     )

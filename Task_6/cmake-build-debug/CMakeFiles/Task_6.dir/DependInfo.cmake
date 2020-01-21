@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/romamart/system-programming/Task_6/src/main/main.cpp" "/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/main/main.cpp.o"
   "/home/romamart/system-programming/Task_6/src/test/FigurTest.cpp" "/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o"
   "/home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp" "/home/romamart/system-programming/Task_6/cmake-build-debug/CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o"
   )

@@ -87,7 +87,7 @@
 		<Unit filename="/home/romamart/system-programming/Task_6/src/main/Fig.h">
 			<Option target="Task_6"/>
 		</Unit>
-		<Unit filename="/home/romamart/system-programming/Task_6/src/main/Polynomial.h">
+		<Unit filename="/home/romamart/system-programming/Task_6/src/main/main.cpp">
 			<Option target="Task_6"/>
 		</Unit>
 		<Unit filename="/home/romamart/system-programming/Task_6/src/test/FigurTest.cpp">

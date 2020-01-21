@@ -57,14 +57,14 @@ namespace my
 
 
     template <class Iterator>
-    void mergeSort(Iterator start, Iterator end)
+    void mergeSortSeq(Iterator start, Iterator end)
     {
         mergeSortRecursive(start, end, std::thread::hardware_concurrency());
     }
 
 
     template <class Iterator>
-    void mergeSortSeq(Iterator start, Iterator end)
+    void mergeSortPar(Iterator start, Iterator end)
     {
         mergeSortRecursive(start, end, 1);
     }

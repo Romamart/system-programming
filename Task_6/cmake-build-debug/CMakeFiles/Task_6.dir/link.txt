@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o  -o Task_6 /usr/lib/libgtest.a -lpthread 
+/usr/bin/c++  -g   CMakeFiles/Task_6.dir/src/main/main.cpp.o CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o  -o Task_6 /usr/lib/libgtest.a -lpthread 

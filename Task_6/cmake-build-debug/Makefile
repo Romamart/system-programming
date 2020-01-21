@@ -123,6 +123,33 @@ Task_6/fast:
 	$(MAKE) -f CMakeFiles/Task_6.dir/build.make CMakeFiles/Task_6.dir/build
 .PHONY : Task_6/fast
 
+src/main/main.o: src/main/main.cpp.o
+
+.PHONY : src/main/main.o
+
+# target to build an object file
+src/main/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Task_6.dir/build.make CMakeFiles/Task_6.dir/src/main/main.cpp.o
+.PHONY : src/main/main.cpp.o
+
+src/main/main.i: src/main/main.cpp.i
+
+.PHONY : src/main/main.i
+
+# target to preprocess a source file
+src/main/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Task_6.dir/build.make CMakeFiles/Task_6.dir/src/main/main.cpp.i
+.PHONY : src/main/main.cpp.i
+
+src/main/main.s: src/main/main.cpp.s
+
+.PHONY : src/main/main.s
+
+# target to generate assembly for a file
+src/main/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Task_6.dir/build.make CMakeFiles/Task_6.dir/src/main/main.cpp.s
+.PHONY : src/main/main.cpp.s
+
 src/test/FigurTest.o: src/test/FigurTest.cpp.o
 
 .PHONY : src/test/FigurTest.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Task_6"
 	@echo "... edit_cache"
+	@echo "... src/main/main.o"
+	@echo "... src/main/main.i"
+	@echo "... src/main/main.s"
 	@echo "... src/test/FigurTest.o"
 	@echo "... src/test/FigurTest.i"
 	@echo "... src/test/FigurTest.s"

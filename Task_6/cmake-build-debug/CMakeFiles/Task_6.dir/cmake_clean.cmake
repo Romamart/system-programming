@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Task_6.dir/src/main/main.cpp.o"
   "CMakeFiles/Task_6.dir/src/test/FigurTest.cpp.o"
   "CMakeFiles/Task_6.dir/src/test/PolynomialTest.cpp.o"
   "Task_6"
