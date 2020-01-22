@@ -6,17 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/romamart/system-programming/Task_6/src/main/Fig.h
-cmath
--
-array
--
-iostream
+/home/romamart/system-programming/Task_6/src/main/Polynomial.h
+complex
 -
 
-/home/romamart/system-programming/Task_6/src/test/FigurTest.cpp
+/home/romamart/system-programming/Task_6/src/main/main.cpp
+../main/Polynomial.h
+/home/romamart/system-programming/Task_6/src/main/Polynomial.h
+
+/home/romamart/system-programming/Task_6/src/test/PolynomialTest.cpp
 gtest/gtest.h
 -
-../main/Fig.h
-/home/romamart/system-programming/Task_6/src/main/Fig.h
+../main/Polynomial.h
+/home/romamart/system-programming/Task_6/src/main/Polynomial.h
+complex
+-
 

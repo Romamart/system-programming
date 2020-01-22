@@ -1,4 +1,4 @@
-Build started at 2020-01-21T16:31:24.683455
+Build started at 2020-01-22T15:54:18.084955
 Main binary: /home/romamart/anaconda3/bin/python
 Build Options: -Db_sanitize=address -Dbackend=ninja
 Python system: Linux
@@ -25,8 +25,8 @@ Build targets in project: 1
 
 Found ninja-1.9.0 at /home/romamart/anaconda3/bin/ninja
 Running compile:
-Working directory:  /tmp/tmprl7iz5ci
-Command line:  c++ /tmp/tmprl7iz5ci/testfile.cpp -o /tmp/tmprl7iz5ci/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
+Working directory:  /tmp/tmpnujvqv4j
+Command line:  c++ /tmp/tmpnujvqv4j/testfile.cpp -o /tmp/tmpnujvqv4j/output.obj -pipe -D_FILE_OFFSET_BITS=64 -c -std=c++17 
 
 Code:
  int i = static_cast<int>(0);
@@ -36,8 +36,8 @@ Compiler stderr:
  
 Compiler accepts -std=c++17: YES
 Running compile:
-Working directory:  /home/romamart/system-programming/Task_6/build/meson-private/tmpi9x0b3gz
-Command line:  c++ /home/romamart/system-programming/Task_6/build/meson-private/tmpi9x0b3gz/testfile.cpp -o /home/romamart/system-programming/Task_6/build/meson-private/tmpi9x0b3gz/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+Working directory:  /home/romamart/system-programming/Task_6/build/meson-private/tmplf13w4bg
+Command line:  c++ /home/romamart/system-programming/Task_6/build/meson-private/tmplf13w4bg/testfile.cpp -o /home/romamart/system-programming/Task_6/build/meson-private/tmplf13w4bg/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
 
 Code:
  

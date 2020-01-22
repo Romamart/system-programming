@@ -1,7 +1,7 @@
 [
   {
     "directory": "/home/romamart/system-programming/Task_8/Task_8.2/build",
-    "command": "c++ -Isrc/test/c644cb3@@TableTest@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@TableTest@exe/TableTest.cpp.o' -MF 'src/test/c644cb3@@TableTest@exe/TableTest.cpp.o.d' -o 'src/test/c644cb3@@TableTest@exe/TableTest.cpp.o' -c ../src/test/TableTest.cpp",
+    "command": "c++ -Isrc/test/c644cb3@@TableTest@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++17 -g -pthread -MD -MQ 'src/test/c644cb3@@TableTest@exe/TableTest.cpp.o' -MF 'src/test/c644cb3@@TableTest@exe/TableTest.cpp.o.d' -o 'src/test/c644cb3@@TableTest@exe/TableTest.cpp.o' -c ../src/test/TableTest.cpp",
     "file": "../src/test/TableTest.cpp",
     "output": "src/test/c644cb3@@TableTest@exe/TableTest.cpp.o"
   }

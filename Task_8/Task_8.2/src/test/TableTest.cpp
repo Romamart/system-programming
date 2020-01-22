@@ -12,7 +12,7 @@ using namespace std;
 TEST(Table, try_table)
 {
     cout << "sequential       parallel" << endl;
-    for (unsigned length = 10; length < 100000000; length *= 10)
+    for (unsigned length = 10; length < 10000; length *= 10)
     {
         vector<int> seq(length);
         generate(seq.begin(), seq.end(), []() {return rand(); });
@@ -39,5 +39,5 @@ TEST(Table, try_table)
 //        assert(seq == parallel);
 
     }
-    EXPECT_EQ(1, 1);
+//    EXPECT_EQ(1, 1);
 }
