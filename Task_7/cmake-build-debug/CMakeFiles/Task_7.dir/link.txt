@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Task_7.dir/src/test/main.cpp.o CMakeFiles/Task_7.dir/src/test/test_for_ln.cpp.o  -o Task_7 /usr/lib/libgtest.a -lpthread 

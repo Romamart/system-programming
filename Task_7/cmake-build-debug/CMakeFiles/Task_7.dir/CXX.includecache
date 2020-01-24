@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/romamart/CLionProjects/Task_7/src/main/ln80c_buffer.h
+iostream
+-
+string
+-
+
+/home/romamart/CLionProjects/Task_7/src/main/stat_buffer.h
+iostream
+-
+string
+-
+cctype
+-
+
+/home/romamart/CLionProjects/Task_7/src/test/main.cpp
+iostream
+-
+../main/ln80c_buffer.h
+/home/romamart/CLionProjects/Task_7/src/main/ln80c_buffer.h
+../main/stat_buffer.h
+/home/romamart/CLionProjects/Task_7/src/main/stat_buffer.h
+ostream
+-
+string
+-
+sstream
+-
+
